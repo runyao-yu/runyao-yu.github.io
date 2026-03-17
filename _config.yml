@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "http://localhost:4000"
+url: "https://runyao-yu.github.io"
 baseurl: ""
 
 # Google tracking id
@@ -76,15 +76,15 @@ career_events:
     description: "(Incoming) Visiting Researcher, London Business School"
 
   - image: "/img/converted_logos/Exeter_bw.png"
-    date: "Feb 2025"
+    date: "Feb 2025 - Feb 2025 "
     description: "Guest Lecturer, University of Exeter"
 
   - image: "/img/converted_logos/Vienna_bw.png"
-    date: "June 2024"
+    date: "June 2024 - June 2024"
     description: "Guest Lecturer, University of Vienna"
 
   - image: "/img/converted_logos/TU Delft_bw.png"
-    date: "Sep 2023"
+    date: "Sep 2023 - Sep 2023"
     description: "Workshop Lecturer, TU Delft & TenneT"
 
   - image: "/img/converted_logos/bugatti_rimac_bw.png"
@@ -138,21 +138,14 @@ timeline-img: "/img/converted_logos/Foto.png"
 ########
 
 life_events:
-  - date: "2026"
-    description: "Write a short life update here. For example: where you lived, what you were doing, and what mattered during this period."
+  - date: "20 Nov 2025"
+    description: "Paris, Lady Gaga Concert."
     images:
-      - "/img/converted_logos/ARUP_bw.png"
-      - "/img/converted_logos/ARUP_bw.png"
-      - "/img/converted_logos/ARUP_bw.png"
-      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/1120_paris_ladygaga/1.jfif"
+      - "/img/1120_paris_ladygaga/2.jfif"
+      - "/img/1120_paris_ladygaga/3.jfif"
+      - "/img/1120_paris_ladygaga/4.jfif"
 
-  - date: "2026"
-    description: "Write a short life update here. For example: where you lived, what you were doing, and what mattered during this period."
-    images:
-      - "/img/converted_logos/ARUP_bw.png"
-      - "/img/converted_logos/ARUP_bw.png"
-      - "/img/converted_logos/ARUP_bw.png"
-      - "/img/converted_logos/ARUP_bw.png"
 ###########
 # Contact #
 ###########
