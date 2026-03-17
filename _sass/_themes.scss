@@ -1,0 +1,45 @@
+// Light theme (Solarized light)
+:root {
+  --primary-color: #FFFFFF;
+  --background-color: #FFFFFF;
+  --font-color: #000000;
+  --font-color-light: #000000;
+  --font-color-dark: #000000;
+  --font-color-faint-2: rgba(0, 0, 0, 0.08);
+  --font-color-faint-3: rgba(0, 0, 0, 0.12);
+  --secondary-color: #BAC3CF;
+  --secondary-dark: #BAC3CF;
+  --secondary-mid: #BAC3CF;
+  --secondary-half: #BAC3CF;
+  --secondary-subtle: #BAC3CF;
+  --selection-bg: #000000;
+  --selection-color: #FFFFFF;
+  --nav-hover-bg: #000000;
+  --nav-hover-color: #FFFFFF;
+}
+
+// Dark theme (Everforest dark)
+[data-theme="dark"] {
+  --primary-color: #000000;
+  --background-color: #000000;
+  --font-color: #FFFFFF;
+  --font-color-light: #FFFFFF;
+  --font-color-dark: #FFFFFF;
+  --font-color-faint-2: rgba(255, 255, 255, 0.18);
+  --font-color-faint-3: rgba(255, 255, 255, 0.22);
+  --secondary-color: #BAC3CF;
+  --secondary-dark: #BAC3CF;
+  --secondary-mid: #BAC3CF;
+  --secondary-half: #BAC3CF;
+  --secondary-subtle: #BAC3CF;
+  --selection-bg: #FFFFFF;
+  --selection-color: #000000;
+  --nav-hover-bg: #FFFFFF;
+  --nav-hover-color: #000000;
+}
+
+html {
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+}

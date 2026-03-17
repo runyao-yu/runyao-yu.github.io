@@ -1,0 +1,11 @@
+**/.DS_Store
+
+# Claude Code local permissions — machine-specific, not shared
+.claude/settings.local.json
+
+# Ruby LSP
+.ruby-lsp/
+
+# Jekyll
+_site/
+.jekyll-cache/

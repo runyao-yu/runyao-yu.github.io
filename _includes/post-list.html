@@ -1,0 +1,20 @@
+<!-- Post List Start -->
+
+<div class="post-list-item">
+  <span class="post-date">{{ post.date | date_to_string }}</span>
+  <span class="post-title">
+    {% if post.paper_url %}
+    <a href="{{ post.paper_url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+    {% else %}
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    {% endif %}
+  </span>
+  <span class="post-category">
+    {{ post.category }}
+  </span>
+  <span class="post-authors">
+    {% if post.authors %}{{ post.authors }}{% else %}Author Name 1, Author Name 2{% endif %}
+  </span>
+</div>
+
+<!-- Post List End -->

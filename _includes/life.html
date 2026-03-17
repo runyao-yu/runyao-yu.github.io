@@ -1,0 +1,37 @@
+<!-- Life Start -->
+
+<section
+  id="{{ page.section-type }}"
+  class="container content-section text-center"
+>
+  <div class="row justify-content-center">
+    <div class="col-md-10 col-12">
+      {{ page.content | markdownify }}
+
+      {% if site.life_events.size > 0 %}
+      <div class="life-feed pt-5">
+        {% for item in site.life_events %}
+        <article class="life-entry">
+          <div class="life-copy">
+            <h4>{{ item.date }}</h4>
+            <div class="text-justify">
+              {{ item.description | markdownify }}
+            </div>
+          </div>
+
+          <div class="life-gallery">
+            {% for image in item.images limit: 4 %}
+            <figure class="life-figure">
+              <img src="{{ image | relative_url }}" alt="{{ item.date }}" />
+            </figure>
+            {% endfor %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<!-- Life End -->

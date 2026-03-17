@@ -1,0 +1,216 @@
+# Site settings
+
+# NB! Set your site's url, otherwise nothing will work
+url: "http://localhost:4000"
+baseurl: ""
+
+# Google tracking id
+google-tracking-id: "UA-XXXXXXXX-X"
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Runyao Yu"
+title: "Runyao Yu "
+description: "Website of Runyao Yu."
+keywords: "Runyao, Yu, Delft, Electricity, Battery"
+favicon: "/img/Tri.ico"
+################
+# Header layout#
+################
+black-favicon: "/img/Tri.ico"
+background-img: "intro-bg.jpg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+quote: "Runyao is a quantitative energy researcher and data scientist specializing in probabilistic forecasting for electricity prices and batteries. 
+  His profile spans academia at TU Delft, TU Munich, ETH Zurich, and London Business School, 
+  as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
+# To use github profile pic uncomment the following line and replace 'user_name'
+# with your github user name.
+
+# me-img: "https://github.com/user_name.png?size=500"
+
+# To use gravatar profile pic uncomment the following line and replace 'email_hash'
+# with your gravatar profile email hash.
+# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
+# just enter your email and it will generate the hash.
+
+# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
+
+#######
+# Blog #
+########
+
+post-preview-words: 96
+paginate: 12
+email-share: True
+fb-share: False
+linkedin-share: True
+reddit-share: False
+x-share: False
+hackernews-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: True
+vkontakte-share: True
+
+# NB! Create an account in Cusdis and update the app id, otherwise the comments won't work
+cusdis-app-id: "d34a3968-9be5-46d7-98f1-c4263cd1a220"
+
+##########
+# Career #
+##########
+
+career_events:
+  - image: "/img/converted_logos/TU Delft_bw.png"
+    date: "May 2023 - Present"
+    description: "PhD Researcher, TU Delft"
+
+  - image: "/img/converted_logos/LBS.png"
+    date: "Jun 2026 - Sep 2026"
+    description: "(Incoming) Visiting Researcher, London Business School"
+
+  - image: "/img/converted_logos/Exeter_bw.png"
+    date: "Feb 2025"
+    description: "Guest Lecturer, University of Exeter"
+
+  - image: "/img/converted_logos/Vienna_bw.png"
+    date: "June 2024"
+    description: "Guest Lecturer, University of Vienna"
+
+  - image: "/img/converted_logos/TU Delft_bw.png"
+    date: "Sep 2023"
+    description: "Workshop Lecturer, TU Delft & TenneT"
+
+  - image: "/img/converted_logos/bugatti_rimac_bw.png"
+    date: "Jan 2023 - Present"
+    description: "Senior Battery Intelligence Engineer, (Bugatti-) Rimac)"
+
+  - image: "/img/converted_logos/LMU_bw.png"
+    date: "Jul 2023 - Aug 2023"
+    description: "Summer School Scholar, LMU Munich"
+
+  - image: "/img/converted_logos/BMW_bw.png"
+    date: "Apr 2022 - Oct 2022"
+    description: "Research Intern, BMW"
+
+  - image: "/img/converted_logos/TUMunich_bw.png"
+    date: "Sep 2020 - Sep 2022"
+    description: "M.Sc. with Distinction, TU Munich"
+
+  - image: "/img/converted_logos/TUMunich_bw.png"
+    date: "May 2022 - Sep 2022"
+    description: "Teaching Assistant, TU Munich"
+
+  - image: "/img/converted_logos/KPMG_bw.png"
+    date: "Jan 2022 - Feb 2022"
+    description: "Intern, KPMG"
+
+  - image: "/img/converted_logos/ETH_bw.png"
+    date: "Aug 2021 - Jan 2022"
+    description: "Visiting Researcher, ETH Zurich"
+
+  - image: "/img/converted_logos/danfoss_bw.png"
+    date: "Jun 2021 - Jan 2022"
+    description: "Working Student, Danfoss"
+
+  - image: "/img/converted_logos/TUMunich_bw.png"
+    date: "May 2021 - Sep 2021"
+    description: "Working Student, TU Munich"
+
+  - image: "/img/converted_logos/RPTU_bw.png"
+    date: "Sep 2017 - Sep 2020"
+    description: "B.Sc., TU Kaiserslautern"
+
+  - image: "/img/converted_logos/ARUP_bw.png"
+    date: "Nov 2019 - Mar 2020"
+    description: "Intern, Arup"
+
+# First image of the Career timeline
+timeline-img: "/img/converted_logos/Foto.png"
+########
+# Life #
+########
+
+life_events:
+  - date: "2026"
+    description: "Write a short life update here. For example: where you lived, what you were doing, and what mattered during this period."
+    images:
+      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/converted_logos/ARUP_bw.png"
+
+  - date: "2026"
+    description: "Write a short life update here. For example: where you lived, what you were doing, and what mattered during this period."
+    images:
+      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/converted_logos/ARUP_bw.png"
+      - "/img/converted_logos/ARUP_bw.png"
+###########
+# Contact #
+###########
+
+#email: "runyao.yu@tudelft.nl"
+resume-file: "/img/Resume_Runyao.pdf"
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+#author_blurb_image: "/img/Foto.JPG"
+#uthor_blurb:
+#  "Runyao is a quantitative energy researcher and data scientist specializing in probabilistic
+#  forecasting for electricity prices and batteries. 
+#  His profile spans academia at TU Delft, TU Munich, ETH Zurich, and London Business School, 
+#  as well as industry at (Bugatti-) Rimac, BMW, Danfoss, Arup, and other companies."
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - icon: "github"
+    url: "https://github.com/runyao-yu"
+  - icon: "linkedin-in"
+    url: "https://www.linkedin.com/in/runyao-yu/"
+  - icon: "email"
+
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+pages_list:
+  Publication: "latest-post"
+  Career: "career"
+  Life: "life"
+  Contact: "contact"
+
+syntax_theme: everforest
+
+# Exclusion list from the generated _site
+exclude:
+  - LICENSE
+  - README.md
+  - CONTRIBUTING
+  - CONTRIBUTORS
+  - scripts
+  - Dockerfile
+  - docker-compose.yml
+# Pagination path
+paginate_path: "blog/page:num/"
+# Enable minification SASS
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-spaceship
