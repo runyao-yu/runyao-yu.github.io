@@ -28,7 +28,7 @@ background-img: "intro-bg.jpg"
 ##############################
 
 quote: "Runyao is a quantitative energy researcher and data scientist specializing in probabilistic forecasting for electricity prices and batteries. 
-  His profile spans academia at TU Delft, TU Munich, ETH Zurich, and London Business School, 
+  His profile spans academia at TU Delft, LMU Munich, TU Munich, and ETH Zurich, 
   as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -163,7 +163,7 @@ life_events:
       - "/img/04102025_Zakynthos_bluesea/4.jfif"
 
   - date: "05 Jul 2025"
-    description: "Omuro, Kamakura, Osaka, Kyoto in Japan, very different life, started loving Japan!"
+    description: "Omuro, Kamakura, Osaka, Kyoto, very different life, started to love Japan!"
     images:
       - "/img/05072025_japan_differentlife/1.jfif"
       - "/img/05072025_japan_differentlife/2.jfif"
@@ -180,7 +180,7 @@ life_events:
       - "/img/13102024_Dubruvnik_conference/4.jfif"
 
   - date: "11 Oct 2024"
-    description: "Munich, driving with Yuchen's friends; the home-made butter bread is quite special."
+    description: "Koenigsee, driving with friends; the home-made butter bread is quite special."
     images:
       - "/img/11102024_Munich_drivingwithfriend/1.jfif"
       - "/img/11102024_Munich_drivingwithfriend/2.jfif"
