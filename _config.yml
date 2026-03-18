@@ -196,6 +196,15 @@ life_events:
       - "/img/16082024_munich_adele/3.jfif"
       - "/img/16082024_munich_adele/4.jfif"
 
+  - date: "20 Jul 2024"
+    description: "Gelsenkirchen, Taylor Swift concert."
+    images:
+      - "/img/20072024_gelsenkirchen_taylorswift/1.jfif"
+      - "/img/20072024_gelsenkirchen_taylorswift/2.jfif"
+      - "/img/20072024_gelsenkirchen_taylorswift/3.jfif"
+      - "/img/20072024_gelsenkirchen_taylorswift/4.jfif"
+
+
   - date: "06 July 2024"
     description: "Vienna, we rented a small boat on the Danube."
     images:
