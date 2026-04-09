@@ -138,6 +138,14 @@ career-img: "/img/draw_io_calibrated/runyao.jpg"
 ########
 
 life_events:
+  - date: "Apr 2026"
+    description: "Sicily, tombs, amphitheater, Etna volcano, temples, white cliffs, and my favorite pistachio lobster pasta."
+    images:
+      - "/img/05042926_sicily/1.jfif"
+      - "/img/05042926_sicily/2.jfif"
+      - "/img/05042926_sicily/3.jfif"
+      - "/img/05042926_sicily/4.jfif"
+
   - date: "20 Nov 2025"
     description: "Paris, Lady Gaga concert."
     images:
