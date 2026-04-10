@@ -16,11 +16,11 @@ author: "Runyao Yu"
 title: "Runyao Yu "
 description: "Website of Runyao Yu."
 keywords: "Runyao, Yu, Delft, Electricity, Battery"
-favicon: "/img/Tri.ico"
+favicon: "/img/black_logo.svg"
 ################
 # Header layout#
 ################
-black-favicon: "/img/Tri.ico"
+black-favicon: "/img/black_logo.svg"
 background-img: "intro-bg.jpg"
 
 ##############################
