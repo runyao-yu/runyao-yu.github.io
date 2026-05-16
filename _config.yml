@@ -27,8 +27,8 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Runyao is a quantitative energy researcher and data scientist specializing in probabilistic forecasting for electricity prices and batteries. 
-  His profile spans academia at TU Delft, LMU Munich, TU Munich, and ETH Zurich, 
+quote: "Runyao is the founder of DeepPrior, a quantitative researcher, and a data scientist specializing in probabilistic energy forecasting. 
+  His profile spans academia at TU Delft, LMU Munich, TU Munich, London Business School, and ETH Zurich, 
   as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -73,7 +73,7 @@ career_events:
 
   - image: "/img/draw_io_calibrated/lbs.jpg"
     date: "Jun 2026 - Sep 2026"
-    description: "(Incoming) Visiting Researcher, London Business School"
+    description: "Visiting Researcher, London Business School"
 
   - image: "/img/draw_io_calibrated/exeter.jpg"
     date: "Feb 2025 - Feb 2025 "
@@ -138,6 +138,24 @@ career-img: "/img/draw_io_calibrated/runyao.jpg"
 ########
 
 life_events:
+
+
+  - date: "09 May 2026"
+    description: "Idelstein, a quiet escape into nature, far from the noise of the city."
+    images:
+      - "/img/09052026_Idelstein/1.jfif"
+      - "/img/09052026_Idelstein/2.jfif"
+      - "/img/09052026_Idelstein/3.jfif"
+      - "/img/09052026_Idelstein/4.jfif"
+
+  - date: "18 Apr 2026"
+    description: "Keukenhof, a lot of Tulips and my favorite Ananas Flower."
+    images:
+      - "/img/04182026_Keukenhof/1.jfif"
+      - "/img/04182026_Keukenhof/2.jfif"
+      - "/img/04182026_Keukenhof/3.jfif"
+      - "/img/04182026_Keukenhof/4.jfif"
+
   - date: "5 Apr 2026"
     description: "Sicily, 5 rainy days, tombs, amphitheater, Etna volcano, temples, white cliffs, and my favorite pistachio lobster pasta."
     images:
