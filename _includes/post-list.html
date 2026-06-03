@@ -6,7 +6,7 @@
     {% if post.paper_url %}
     <a href="{{ post.paper_url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
     {% else %}
-    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    {{ post.title }}
     {% endif %}
   </span>
   <span class="post-category">

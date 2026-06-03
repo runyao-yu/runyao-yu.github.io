@@ -243,6 +243,16 @@ a {
     }
     .intro-text {
       font-size: 1.3rem;
+      a {
+        color: #000000;
+        text-decoration: underline;
+        text-decoration-color: #000000;
+        &:hover,
+        &:focus {
+          color: #000000;
+          text-decoration: underline;
+        }
+      }
     }
   }
   @media (min-width: 768px) {

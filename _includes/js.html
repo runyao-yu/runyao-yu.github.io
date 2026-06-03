@@ -159,11 +159,12 @@ To use this Jekyll theme, visit: https://github.com/le4ker/personal-jekyll-theme
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function () {
     new Typed(".intro-text", {
-      strings: ["{{ site.quote }}"],
+      strings: [{{ site.quote | jsonify }}],
       typeSpeed: 20,
       startDelay: 250,
       loop: false,
       cursorChar: "|",
+      contentType: "html",
     });
   });
 </script>

@@ -27,7 +27,7 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Runyao is the founder of DeepPrior, a quantitative researcher, and a data scientist specializing in probabilistic energy forecasting. 
+quote: "Runyao is the founder of <a href='https://deepprior.com/' target='_blank' rel='noopener noreferrer'>DeepPrior</a>, a quantitative researcher, and a data scientist specializing in probabilistic energy forecasting. 
   His profile spans academia at TU Delft, LMU Munich, TU Munich, London Business School, and ETH Zurich, 
   as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
 # To use github profile pic uncomment the following line and replace 'user_name'
@@ -89,7 +89,7 @@ career_events:
 
   - image: "/img/draw_io_calibrated/rimac.jpg"
     date: "Jan 2023 - Present"
-    description: "Senior Battery Intelligence Engineer, (Bugatti-) Rimac"
+    description: "Lead Data Scientist, (Bugatti-) Rimac"
 
   - image: "/img/draw_io_calibrated/lmumunich.jpg"
     date: "Jul 2023 - Aug 2023"
