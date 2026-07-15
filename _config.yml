@@ -27,8 +27,8 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Runyao is the founder of <a href='https://deepprior.com/' target='_blank' rel='noopener noreferrer'>DeepPrior</a>, a quantitative researcher, and a data scientist specializing in probabilistic energy forecasting. 
-  His profile spans academia at TU Delft, LMU Munich, TU Munich, London Business School, and ETH Zurich, 
+quote: "Runyao is a quantitative researcher, and a data scientist specializing in probabilistic energy forecasting. 
+  His profile spans academia at London Business School, TU Delft, LMU Munich, TU Munich, and ETH Zurich, 
   as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -139,6 +139,23 @@ career-img: "/img/draw_io_calibrated/runyao.jpg"
 
 life_events:
 
+
+
+  - date: "28 June 2026"
+    description: "A lucky sunny day at the White Cliffs near London, with a blue sea and perfect weather."
+    images:
+      - "/img/28062026_white_cliff/1.jfif"
+      - "/img/28062026_white_cliff/2.jfif"
+      - "/img/28062026_white_cliff/3.jfif"
+      - "/img/28062026_white_cliff/4.jfif"
+
+  - date: "10 June 2026"
+    description: "At the PSCC conference in Cyprus, I swam in the sea with new friends."
+    images:
+      - "/img/10062026_cyprus_pscc/1.jfif"
+      - "/img/10062026_cyprus_pscc/2.jfif"
+      - "/img/10062026_cyprus_pscc/3.jfif"
+      - "/img/10062026_cyprus_pscc/4.jfif"
 
   - date: "09 May 2026"
     description: "Idelstein, a quiet escape into nature, far from the noise of the city."
