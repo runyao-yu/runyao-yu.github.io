@@ -27,7 +27,7 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Runyao is a quantitative researcher, and a data scientist specializing in probabilistic energy forecasting. 
+quote: "Runyao is a quantitative researcher and a data scientist specializing in probabilistic price forecasting. 
   His profile spans academia at London Business School, TU Delft, LMU Munich, TU Munich, and ETH Zurich, 
   as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
 # To use github profile pic uncomment the following line and replace 'user_name'
