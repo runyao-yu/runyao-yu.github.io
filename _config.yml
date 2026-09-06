@@ -27,8 +27,8 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Runyao is a quantitative researcher and a data scientist specializing in probabilistic price forecasting. 
-  His profile spans academia at London Business School, TU Delft, LMU Munich, TU Munich, and ETH Zurich, 
+quote: "Runyao is a quantitative researcher in probabilistic price forecasting. 
+  His profile spans academia at London Business School, TU Delft, TU Munich, and ETH Zurich, 
   as well as industry at (Bugatti-) Rimac, BMW, Danfoss, KPMG, Arup, and other companies."
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -139,7 +139,13 @@ career-img: "/img/draw_io_calibrated/runyao.jpg"
 
 life_events:
 
-
+  - date: "20 August 2026"
+    description: "Hiked for 3 days in the Dolomites — Lake Braies, Tre Cime, and Seceda. The cows are so cute!"
+    images:
+      - "/img/20082026_dolomites/1.jfif"
+      - "/img/20082026_dolomites/2.jfif"
+      - "/img/20082026_dolomites/3.jfif"
+      - "/img/20082026_dolomites/4.jfif"
 
   - date: "28 June 2026"
     description: "A lucky sunny day at the White Cliffs near London, with a blue sea and perfect weather."
@@ -386,6 +392,7 @@ social:
   - icon: "linkedin-in"
     url: "https://www.linkedin.com/in/runyao-yu/"
   - icon: "email"
+    url: "mailto:ryu@london.edu"
 
 
 # NB! Tread carefully if you want to change the variables below this point!
