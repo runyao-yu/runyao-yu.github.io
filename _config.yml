@@ -67,13 +67,22 @@ cusdis-app-id: "d34a3968-9be5-46d7-98f1-c4263cd1a220"
 ##########
 
 career_events:
-  - image: "/img/draw_io_calibrated/tudelft.jpg"
-    date: "May 2023 - Present"
-    description: "PhD Researcher, TU Delft"
 
   - image: "/img/draw_io_calibrated/lbs.jpg"
-    date: "Jun 2026 - Sep 2026"
+    date: "Jun 2026 - Present"
     description: "Visiting Researcher, London Business School"
+
+  - image: "/img/draw_io_calibrated/rimac.jpg"
+    date: "Jan 2023 - Present"
+    description: "Lead Data Scientist, (Bugatti-) Rimac"
+
+  - image: "/img/draw_io_calibrated/tudelft.jpg"
+    date: "May 2023 - Jan 2027"
+    description: "PhD Researcher, TU Delft"
+
+  - image: "/img/draw_io_calibrated/imperial.png"
+    date: "Aug 2026 - Aug 2026 "
+    description: "Guest Speaker, Imperial College London"
 
   - image: "/img/draw_io_calibrated/exeter.jpg"
     date: "Feb 2025 - Feb 2025 "
@@ -86,10 +95,6 @@ career_events:
   - image: "/img/draw_io_calibrated/tudelft.jpg"
     date: "Sep 2023 - Sep 2023"
     description: "Workshop Lecturer, TU Delft & TenneT"
-
-  - image: "/img/draw_io_calibrated/rimac.jpg"
-    date: "Jan 2023 - Present"
-    description: "Lead Data Scientist, (Bugatti-) Rimac"
 
   - image: "/img/draw_io_calibrated/lmumunich.jpg"
     date: "Jul 2023 - Aug 2023"
